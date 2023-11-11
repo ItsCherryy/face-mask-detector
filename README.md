@@ -1,16 +1,5 @@
 # Face Mask Detector
- AI model that detects if a person is wearing a mask on live video feed
-
- ## Quick Snaps
- <div align="center">
-  <table>
-   <tr>
-     <td><img src="images/with_mask.jpg" width="400"></td>
-     <td><img src="images/without_mask.jpg" width="400"></td>
-     <td><img src="images/incorrect.jpg" width="400"></td>
-   </tr>
-  </table>
- </div>
+ AI model that detects if a person is wearing a mask on live video feed  
 
  # What I learned
  * Transfer Learning using models provided by Tensorflow
