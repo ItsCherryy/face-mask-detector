@@ -4,9 +4,9 @@
  ## Quick Snaps
  <table>
   <tr>
-    <td><img src="images/with_mask.jpg" width="33"></td>
-    <td><img src="images/without_mask.jpg" width="33"></td>
-    <td><img src="images/incorrect.jpg" width="33"></td>
+    <td><img src="images/with_mask.jpg" width="100"></td>
+    <td><img src="images/without_mask.jpg" width="100"></td>
+    <td><img src="images/incorrect.jpg" width="100"></td>
   </tr>
  </table>
 
