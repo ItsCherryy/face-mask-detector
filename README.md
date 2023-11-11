@@ -21,6 +21,9 @@
 3-minute lightning video about the project
 <div align="center">
 [![YouTube Face Mask Detector](https://img.youtube.com/vi/zjDkkB7eE-8/hqdefault.jpg)](https://youtu.be/zjDkkB7eE-8)  
+ 
+<a href="https://youtu.be/zjDkkB7eE-8" target="_blank"><img src="https://img.youtube.com/vi/zjDkkB7eE-8/hqdefault.jpg" 
+alt="YouTube Face Mask Detector"/></a>
 </div>
 
 Selected as one of the winners :tada:  
