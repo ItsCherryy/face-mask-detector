@@ -7,6 +7,4 @@
 
 # Generation Google Scholarships - program extension for Australia and New Zealand Event
 3-minute lightning video about the project
-[https://youtu.be/zjDkkB7eE-8](Real Time Face Mask Detector)
-
-
+[![YouTube Face Mask Detector](https://img.youtube.com/vi/zjDkkB7eE-8/0.jpg)](https://youtu.be/zjDkkB7eE-8)
