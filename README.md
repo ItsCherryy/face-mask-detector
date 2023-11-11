@@ -28,3 +28,4 @@ Selected as one of the winners :tada:
 
 ## References
 Renotte, N. (2020). Real time face mask detection with Tensorflow and Python. YouTube. https://youtu.be/IOI0o3Cxv9Q?feature=shared
+Larxel. (2020) Face mask detection. Kaggle. https://www.kaggle.com/andrewmvd/face-mask-detection?select=annotations
