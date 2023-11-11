@@ -16,6 +16,7 @@
  * Transfer Learning using models provided by Tensorflow
  * Letting AI models perform detection on live video feed
 
+  
 # Generation Google Scholarships - program extension for Australia and New Zealand Event
 3-minute lightning video about the project  
 [![YouTube Face Mask Detector](https://img.youtube.com/vi/zjDkkB7eE-8/hqdefault.jpg)](https://youtu.be/zjDkkB7eE-8)  
