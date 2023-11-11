@@ -1,5 +1,6 @@
 # Face Mask Detector
  AI model that detects if a person is wearing a mask on live video feed  
+ * Detects mask color if detected user wearing one
 
  # What I learned
  * Transfer Learning using models provided by Tensorflow
