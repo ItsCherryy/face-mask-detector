@@ -15,7 +15,7 @@
  # What I learned
  * Transfer Learning using models provided by Tensorflow
  * Letting AI models perform detection on live video feed
-
+  
   
 # Generation Google Scholarships - program extension for Australia and New Zealand Event
 3-minute lightning video about the project  
