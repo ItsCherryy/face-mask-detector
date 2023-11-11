@@ -7,8 +7,9 @@
 
 # Generation Google Scholarships - program extension for Australia and New Zealand Event
 3-minute lightning video about the project  
-[![YouTube Face Mask Detector](https://img.youtube.com/vi/zjDkkB7eE-8/hqdefault.jpg)](https://youtu.be/zjDkkB7eE-8)
+[![YouTube Face Mask Detector](https://img.youtube.com/vi/zjDkkB7eE-8/hqdefault.jpg)](https://youtu.be/zjDkkB7eE-8)  
 
+Selected as one of the winners :tada:  
 
 ## References
 Renotte, N. (2020). Real time face mask detection with Tensorflow and Python. YouTube. https://youtu.be/IOI0o3Cxv9Q?feature=shared
